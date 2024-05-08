@@ -1,0 +1,11 @@
+name,email,password
+John Doe          , john.doe@example.com     , password1  
+Jane Smith        , jane.smith@example.com   , password2  
+Michael Johnson   , michael.johnson@example.com , password3  
+Emily Brown       , emily.brown@example.com  , password4  
+William Taylor    , william.taylor@example.com , password5  
+Sarah Anderson    , sarah.anderson@example.com , password6  
+David Martinez    , david.martinez@example.com , password7  
+Jessica Wilson    , jessica.wilson@example.com , password8  
+Christopher Thomas, christopher.thomas@example.com , password9 
+Amanda Garcia     , amanda.garcia@example.com , password10 
